@@ -1,0 +1,13 @@
+{
+    "name": "docker-compose-todo",
+    "version": "1.0.1",
+    "description": "Node ToDo app on Docker",
+    "author": "Michael Gokey <Michael.of.Gokey@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.13.3"
+    }
+}
